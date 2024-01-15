@@ -55,3 +55,5 @@ Notion/Woong/SSAFY-수업내용/스타트캠프/2024.01.11 참고
 #### Github 사용
 - Remote Repository를 활용
 
+# 본과정
+[Python_24.01.15](https://github.com/woongveloper/sw_study/blob/c51ce499888410ed2f777fcbf504fa9ada81e659/python/python_240115.md)
