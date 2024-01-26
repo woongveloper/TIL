@@ -13,3 +13,5 @@
 [Python_Packing & Unpacking, Module, Library](https://github.com/woongveloper/sw_study/blob/429bb99b1a22f5668aa786502c28184746d6d5c2/summary/5_packing_module.md)
 
 [Python_Control Statement](https://github.com/woongveloper/sw_study/blob/429bb99b1a22f5668aa786502c28184746d6d5c2/summary/6_control_statement.md)
+
+[No Built-in function (sum, min, max ...), 1차 시험 대비](https://github.com/woongveloper/sw_study/blob/aad5bab62b419432bc0949e12e19f395d1719702/summary/no_buil_in_function.ipynb)
